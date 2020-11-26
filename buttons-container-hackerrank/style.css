@@ -1,0 +1,11 @@
+#btns {
+  border: 1px solid;
+  width: 75%;
+}
+
+#btns > button {
+  border: 1px solid red;
+  width: 30%;
+  height: 40px;
+  font-size: 24px;
+}
